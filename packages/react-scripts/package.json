@@ -1,5 +1,5 @@
 {
-  "name": "@up/react-scripts",
+  "name": "react-scripts-dd",
   "version": "5.0.0",
   "description": "Overdides the config of CRA!",
   "private": false,
